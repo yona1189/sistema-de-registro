@@ -5,3 +5,5 @@
 - Estado del proyecto: En construcción.
 - para ejecutar el sistema, debes poner:
 ````npm intall react````
+
+- sistema de regitro 2
